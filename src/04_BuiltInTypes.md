@@ -66,6 +66,10 @@ int64 | 64 bits | –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 uint64 | 64 bits | 0 to 18,446,744,073,709,551,615
 BigInt | arbitrary | any size within the constraints of your machine
 
+**Floats**
+
+Floats, or floating-point numbers are the default type used in most computers to represent a fractional value such as 128.38723872 (a number with a decimal place).
+
 The full list of built-in types is shown in the system module:
 
 https://nim-lang.org/docs/system.html
